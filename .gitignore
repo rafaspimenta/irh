@@ -1,0 +1,5 @@
+.idea
+Payroll.Domain/bin
+Payroll.Domain/obj
+Payroll.Domain/.DS_Store
+.DS_Store
