@@ -3,16 +3,20 @@
 The Payroll System is C# application that handles employee salary, leaves, and bonus calculations in a simple way just to show how I design the domain's solution
 
 ## Functional Requirements
-- The system need support two types of employees: Permanent and Contractor.
+- The system need support two types of employees:
+  - Permanent
+  - Contractor.
 - The system need to calculate the monthly salary for an employee based on:
   - The employee's base salary.
   - The number of leave days taken in the payment month.
-  - The allowed number of leave days (3 for Permanent employees, 1 for Contractor employees).
+  - The allowed number of leave days:
+    - 3 for Permanent employees.
+    - 1 for Contractor employees.
   - A proportional deduction based on the number of extra leave days
 - The system need to calculate an annual bonus for each employee based on:
-    The employee’s base salary + multiplier.
-    The number of extra leave days taken over the last 12 months.
-    Different calculation rules for Permanent and Contractor employees.  
+  - The employee’s base salary + multiplier.
+  - The number of extra leave days taken over the last 12 months.
+  - Different calculation rules for Permanent and Contractor employees.  
 
 ## Usage Instructions
 ### Prerequisites
