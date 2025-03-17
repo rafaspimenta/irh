@@ -4,7 +4,7 @@ The Payroll System is C# application that handles employee salary, leaves, and b
 
 ## Functional Requirements
 - The system need support two types of employees:
-  - Permanent
+  - Permanent.
   - Contractor.
 - The system need to calculate the monthly salary for an employee based on:
   - The employee's base salary.
