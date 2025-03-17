@@ -1,6 +1,6 @@
 # Payroll System
 
-The Payroll System is C# application that handles employee salary, leaves, and bonus calculations in a simple way just to show how I design a solution
+The Payroll System is C# application that handles employee salary, leaves, and bonus calculations in a simple way just to show how I design the domain's solution
 
 ## Functional Requirements
 - The system need support two types of employees: Permanent and Contractor.
